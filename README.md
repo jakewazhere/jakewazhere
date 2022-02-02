@@ -135,6 +135,6 @@ To contact me, you can reach out from the following:
 
 
 > <sub>*LAST UPDATED AT:*</sub> <br/>
-> <sub>*Wednesday, February 2, 2022 3:34:00 AM GMT*</sub>
-> <sub>*Tuesday, February 1, 2022 10:34:00 PM EST (GMT-05:00)*</sub>GMT*</sub>
+> <sub>*Wednesday, February 2, 2022 3:34:00 AM GMT*</sub> <br/>
+> <sub>*Tuesday, February 1, 2022 10:34:00 PM EST (GMT-05:00)*</sub> <br/>
 > <sub>*Tuesday, February 1, 2022 7:34:00 PM PST (GMT-05:00)*</sub>
