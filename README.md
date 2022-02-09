@@ -124,7 +124,8 @@ I am currently unemployed as of the last update. I am not looking for hiring/com
 ![](https://github.com/jakewazhere/jakewazhere/blob/main/projects.png?raw=true)
 
 As of the last update, I am currently working on:
-- NONE
+- [Puroto.NET](https://puroto.net/) | Fullstack Developer
+- [Sheri Bot](https://sheri.bot/) | Fullstack Developer and Software Engineer
 
 ![](https://github.com/jakewazhere/jakewazhere/blob/main/contacts.png?raw=true)
 
@@ -134,6 +135,4 @@ To contact me, you can reach out from the following:
 
 
 > <sub>*LAST UPDATED AT:*</sub> <br/>
-> <sub>*Wednesday, February 2, 2022 3:34:00 AM GMT*</sub> <br/>
-> <sub>*Tuesday, February 1, 2022 10:34:00 PM EST (GMT-05:00)*</sub> <br/>
-> <sub>*Tuesday, February 1, 2022 7:34:00 PM PST (GMT-05:00)*</sub>
+> <sub>*Wednesday, 09-Feb-22 21:03:00 UTC*</sub> <br/>
